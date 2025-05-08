@@ -1,0 +1,23 @@
+# Node (React)
+node_modules/
+dist/
+.env
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+
+# General
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
